@@ -1,7 +1,7 @@
 # I help my teams succeed
 ## I write code that is easy to change
 
-### Reflect: What does it mean to be write code that is easy to change?
+### Reflect: What does it mean to write code that is easy to change?
 
 ### Plan: List evidence you aim to collect that would together show you have credibly achieved this goal
 

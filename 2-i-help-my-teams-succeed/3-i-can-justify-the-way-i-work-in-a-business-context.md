@@ -1,7 +1,7 @@
 # I help my teams succeed
-## I can justify the way I work in a business setting
+## I can justify the way I work in a business context
 
-### Reflect: What does it mean to be justify the way you work in a business setting?
+### Reflect: What does it mean to justify the way you work in a business context?
 
 ### Plan: List evidence you aim to collect that would together show you have credibly achieved this goal
 
