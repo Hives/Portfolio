@@ -38,7 +38,7 @@ TDD in Java using JUnit and Mockito, having never used Java before. All user sto
 
 <https://github.com/hives/news-summary-challenge>
 
-TDD-ing without the aid of ~~a safety net~~ a test framework.  Revisit this and generally tighten up. Flesh out my test framework, incuding implementing `describe`/`context`/`it` blocks. Would be cool to turn the test framework into a node module too.
+TDD-ing without the aid of ~~a safety net~~ a test framework.  Revisit this and generally tighten up. Flesh out my test framework, incuding implementing `before`/`describe`/`context`/`it` blocks.
 
 #### Airport Challenge in JavaScript
 
