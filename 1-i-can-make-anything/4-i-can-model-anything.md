@@ -21,6 +21,8 @@ And... do this, present it to team members, see if they understand it - check by
 
 I diagrammed a two-MVC domain for Amy - one MVC running in a browser, and a second MVC running on a server, presenting an API to the first one. She seemed to get it - should ask her for feedback.
 
+Are my modelling diagrams useful to explain to other people
+
 ### Can you say this about yourself? Yes / No
 
 ### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)

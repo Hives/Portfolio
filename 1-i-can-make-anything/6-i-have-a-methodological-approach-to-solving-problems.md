@@ -1,5 +1,5 @@
 # I can make anything
-## I have a methodological process to solving problems
+## I have a methodical process to solving problems
 
 ### Reflect: What does it mean to be able to have a methodological process for solving problems?
 
