@@ -11,7 +11,9 @@ Airport Challenge in JavaScript (I already knew some JS)
 Airport Challenge in Java
 I wanna do FizzBuzz in Haskell!
 
-### Can you say this about yourself? Yes / No
+### Can you say this about yourself?
+
+Yes
 
 ### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 
@@ -23,7 +25,6 @@ TDD in Java using JUnit and Mockito, having never used Java before. All user sto
 
 My process for doing this was:
 
-My process:
 - Google to find a simple tutorial to get started, implement 'Hello World!' and 'FizzBuzz'
 - Research Java test frameworks
 - Read up on getting started with JUnit
@@ -49,3 +50,5 @@ I recorded my process for this in [a lot of detail](https://github.com/Hives/air
 
 
 ### What feedback have you had?
+
+Katerina said after looking at my Airport Challenge in Java that it looked like I had a good general process that I could apply in any situation.

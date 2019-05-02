@@ -9,19 +9,7 @@ Two different things:
 
 ### Plan: List evidence you aim to collect that would together show you have credibly achieved this goal
 
-Some good opportunities for this in the Rails Acebook app. From the learning goals:
-- Diagram a high-level view of Rails MVC architecture
-- Compare and contrast to another MVC framework
-- Diagram the sequence of events when you run rails server
-- Diagram a request and response cycle of a user interacting with the rails app
-
-Do this and get coach feedback.
-
-And... do this, present it to team members, see if they understand it - check by asking them to explain it back, or draw their own diagram.
-
-I diagrammed a two-MVC domain for Amy - one MVC running in a browser, and a second MVC running on a server, presenting an API to the first one. She seemed to get it - should ask her for feedback.
-
-Are my modelling diagrams useful to explain to other people
+Collect diagrams from Acebook, bowling, domain modelling workshop, mvc/api diagram with Amy...
 
 ### Can you say this about yourself? Yes / No
 
@@ -29,9 +17,14 @@ Are my modelling diagrams useful to explain to other people
 
 Examples of models I've made:
 
+- Acebook - we made a diagram of the Rails MVC architecture and an HTTP request/response cycle
+<img src="../images/rails-mvc-architecture-and-http-request-cycle.jpg">
 - [Flow diagrams of bowling scoring](https://github.com/Hives/bowling-challenge/tree/master/attempt-02) - one flow diagram with high level blocks broken down into secondary flow diagrams
 - [Domain modelling for MakersBnB](https://github.com/makers-bnb/makers-bnb#domain-modelling) - breaking down user stories into nouns and verbs, then a class diagram to investigate what classes and methods we would need, and how they would interact
 - [Domain modelling workshop](https://github.com/Hives/makers-notes/tree/master/week-2/workshops/domain-model-diagramming-workshop#what-we-did) - simple domain broken down into class and sequence diagrams
 
 ### What feedback have you had?
 
+I worked on this diagram of a one-page JS app with MVC architecture interacting with an API on another server with Amy. She said my contribution helped her understand the relationship between the two programs.
+
+<img src="../images/mvc-api-with-amy.jpg" width=300>

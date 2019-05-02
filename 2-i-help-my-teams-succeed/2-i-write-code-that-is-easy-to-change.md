@@ -16,7 +16,9 @@
 Give examples (3?) of refactorings which improved the extensibility of my code.
 Get feedback on two projects from coaches, asking them if they think the code is easy to change.
 
-### Can you say this about yourself? Yes / No
+### Can you say this about yourself?
+
+Yes
 
 ### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 

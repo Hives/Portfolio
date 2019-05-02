@@ -13,13 +13,15 @@ Most software development takes place in teams. Your team will support you to do
 
 ### Plan: List evidence you aim to collect that would together show you have credibly achieved this goal
 
-Some stuff I want to do this week:
-- Organise a workshop for the team to learn about Rails together, aim to collect feedback that all members can diagram Rails MVC architecture, HTTP request response/cycle...
-- Get all members contributing to team wiki
+Some stuff I/we've done in our team this week:
+- Organised a workshop for the team to learn about Rails together where we produced a diagram of Rails' MVC architecture, and the flow of an HTTP request response/cycle
+- Get all members contributing to and reading team wiki and README
+- Consciously tried to pair with different members of the team to ensure other team members have worked on and gained knowledge of different parts of the app.
 - Make sure all members are particpating in code reviews so that they understand all parts of the app.
-Get feedback on this.
 
-### Can you say this about yourself? Yes / No
+### Can you say this about yourself?
+
+Yes
 
 ### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 
@@ -40,6 +42,5 @@ Matt said he found that I gave clear explanations of some concepts. For example 
 #### Makers B'n'B team feedback, Greg Paul
 
 > As per point 4 of twelve points of agile development, your communication skills are excellent. You are able to express complicated ideas and break them down in a way which is comprehensible for those working at a lower technical level. You recognise the value of working in a team and were able to both deepen my understanding when appropriate, while also taking a technical lead role when required in order to deliver the goals of the project, as decided by the whole group.
-
+>
 > As per point 6, you showed appreciation, trust and a commitment to empowering others throughout the project. It was very easy to work productively alongside you.
-

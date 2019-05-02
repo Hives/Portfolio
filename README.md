@@ -17,3 +17,7 @@
 ### I am equipped for long term growth
 - [I manage my own well-being](3-i-am-equipped-for-long-term-growth/1-i-manage-my-own-well-being.md)
 - [I can learn anything by myself](3-i-am-equipped-for-long-term-growth/2-i-can-learn-anything-by-myself.md)
+
+Todo:
+- Feedback from team on Rails diagram?
+- Feedback from team on 'i grow collaboratively'?

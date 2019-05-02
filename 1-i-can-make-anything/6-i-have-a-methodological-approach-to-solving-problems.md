@@ -1,24 +1,25 @@
 # I can make anything
 ## I have a methodical process to solving problems
 
-### Reflect: What does it mean to be able to have a methodological process for solving problems?
+### Reflect: What does it mean to be able to have a methodical process for solving problems?
 
 Closely related to the debugging and 'I can learn anything' goals
 
-Method (not necessarily in this order):
-- Understand/define the problem. How will you know when you've solved it?
+- Most important thing - break your problem down into small chunks
 - Analyse the domain
+- Understand/define the problem. How will you know when you've solved it?
 - Research what you need to know to work on the program - read the docs, google it, think about what concepts you know will come into play
-- Think about different approaches/ ways to solve it. Which one looks best? According to what criteria? After you've started working on does your opinion change?
-- Break your chosen approach down into small steps
+- Think about different approaches/ ways to solve it. Which one looks best? According to what criteria? After you've started working on it does your opinion change?
 
 ### Plan: List evidence you aim to collect that would together show you have credibly achieved this goal
 
-- Re-use debugging stuff as evidence of methodological problem solving
+- Re-use debugging stuff as evidence of methodical problem solving
 - Bowling challenge - implemented a number of different approaches to explore the solution space, including a few quick spiked solutions before test-driving the final approach.
 - Airport challenge in Java
 
-### Can you say this about yourself? Yes / No
+### Can you say this about yourself?
+
+Yes
 
 ### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 

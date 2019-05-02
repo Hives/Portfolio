@@ -9,8 +9,7 @@
 
 ### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 
-Umm.... 
-- Walk in to Makers - time to clear my head
+- Walk in to Makers - time to clear my head at start and end of day
 - Pursue activities other than coding outside of Makers - playing music, going to sessions, playing gigs
 - Take regular breaks. Go for a walk every lunch time - fresh air and stretch the legs
 - Get enough sleep - I read a study that said the one thing which all studies show improves the performance of software development teams is not TDD, Agile, writing clean code etc., is getting enough sleep! So I've generally been going to bed much earlier that I was used to before the course, between 10-11 compared to 12-1.
