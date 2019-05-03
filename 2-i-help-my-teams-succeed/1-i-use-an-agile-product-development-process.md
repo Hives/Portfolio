@@ -55,4 +55,4 @@ Greg's feedback
 
 After inviting Michael to our sprint planning meeting we asked him if we showed that we can use agile development processes, can justify the way we work, and were able to justify decisions we were making in a business setting. He said:
 
-> Absolutely!
+> ....?
