@@ -48,5 +48,12 @@ TDD-ing without the aid of ~~a safety net~~ a test framework. (Would like to rev
 
 TDD in JS, using Jasmine.
 
+#### Process reviews
+
+<https://github.com/Hives/makers-process-reviews/tree/master/03-checkout>
+
+Made a video but couldn't upload it because it's too long :-/
+
 ### What feedback have you had?
 
+Katerina said my Java Airport challenge looked like good evidence I could apply TDD principles.
