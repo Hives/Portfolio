@@ -31,4 +31,10 @@ Refactored a method in [this commit](https://github.com/Hives/chitter-challenge/
 I showed these to Alice and she said:
 > "they are clear readability and extendibility (ease of change) improvements. ... hiding complexity in that other method makes it easier to change the code".
 
+#### Acebook
+
+Arthur was confused by the name of the `@user` variable in our `posts#index`. After I changed it to `@wall_owner` he said that the program was more readable, and the flow of information between the controller and the view was easier to understand.
+
 ### What feedback have you had?
+
+See comments from Arthur and Alice above.
