@@ -19,7 +19,9 @@ Examples where I completed work in unfamiliar languages, using my conceptual and
 
 Examples of tools I use - Zsh; Vim and my `.vimrc`; iTerm panes; `.alias` file for commonly used commands; Ranger - terminal file browser; active learning and configuring of keyboard shortcuts; Karabiner for rebinding of keys like Ctrl/Esc instead of Caps Lock, and Super when holding tab
 
-### Can you say this about yourself? Yes / No
+### Can you say this about yourself?
+
+Yes
 
 ### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 

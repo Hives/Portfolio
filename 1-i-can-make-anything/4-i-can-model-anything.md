@@ -11,7 +11,9 @@ Two different things:
 
 Collect diagrams from Acebook, bowling, domain modelling workshop, mvc/api diagram with Amy...
 
-### Can you say this about yourself? Yes / No
+### Can you say this about yourself?
+
+Yes
 
 ### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 
@@ -28,3 +30,5 @@ Examples of models I've made:
 I worked on this diagram of a one-page JS app with MVC architecture interacting with an API on another server with Amy. She said my contribution helped her understand the relationship between the two programs.
 
 <img src="../images/mvc-api-with-amy.jpg" width=300>
+
+Jeremy said our Rails drawing helped him to understand the flow of data through our app, and the Rails MVC architecture.
