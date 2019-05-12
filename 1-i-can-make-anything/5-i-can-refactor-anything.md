@@ -24,13 +24,17 @@ Tactics:
 
 Three examples of good refactoring commits, stating what was done and why this was an improvement. Try and cover a broad range of improvements.
 
-Gilded Rose!? 🤯
-
 ### Can you say this about yourself?
 
 Yes
 
 ### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
+
+#### Gilded Rose kata in C#
+
+<https://github.com/Hives/gilded-rose-csharp>
+
+My solution to the Gilded Rose refactoring kata in C#, a language I had never used previously.
 
 #### Airport Challenge in Java
 
